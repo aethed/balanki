@@ -1,0 +1,317 @@
+{
+    "colors": {
+        "ACCENT_CARD": [
+            "Card mode",
+            "#60a5fa",
+            "#5aabdcff",
+            "--accent-card"
+        ],
+        "ACCENT_DANGER": [
+            "Danger",
+            "#ef4444",
+            "#ec2d33ff",
+            "--accent-danger"
+        ],
+        "ACCENT_NOTE": [
+            "Note mode",
+            "#22c55e",
+            "#86a367ff",
+            "--accent-note"
+        ],
+        "BORDER": [
+            "Border",
+            "#D8DEE9",
+            "#3b5155ff",
+            "--border"
+        ],
+        "BORDER_FOCUS": [
+            "Border (focused input)",
+            "#3b82f6",
+            "#f7f1e4ff",
+            "--border-focus"
+        ],
+        "BORDER_STRONG": [
+            "Border (strong)",
+            "#858585",
+            "#080d10ff",
+            "--border-strong"
+        ],
+        "BORDER_SUBTLE": [
+            "Border (subtle)",
+            "#ECEFF4",
+            "#2d3a3dff",
+            "--border-subtle"
+        ],
+        "BUTTON_BG": [
+            "Button background",
+            "#D8DEE9",
+            "#fda200ff",
+            "--button-bg"
+        ],
+        "BUTTON_DISABLED": [
+            "Button background (disabled)",
+            "#d6d6d680",
+            "#847f66ff",
+            "--button-disabled"
+        ],
+        "BUTTON_HOVER": [
+            "Button background (hover)",
+            "#E5E9F0",
+            "#c88000ff",
+            [
+                "--button-gradient-start",
+                "--button-gradient-end"
+            ]
+        ],
+        "BUTTON_HOVER_BORDER": [
+            "Button border (hover)",
+            "#999999",
+            "#fde4b3ff",
+            "--button-hover-border"
+        ],
+        "BUTTON_PRIMARY_BG": [
+            "Button Primary Bg",
+            "#60a5fa",
+            "#2f67e1",
+            "--button-primary-bg"
+        ],
+        "BUTTON_PRIMARY_DISABLED": [
+            "Button Primary Disabled",
+            "#93c5fd",
+            "#4484ed",
+            "--button-primary-disabled"
+        ],
+        "BUTTON_PRIMARY_GRADIENT_END": [
+            "Button Primary Gradient End",
+            "#2563eb",
+            "#2544a8",
+            "--button-primary-gradient-end"
+        ],
+        "BUTTON_PRIMARY_GRADIENT_START": [
+            "Button Primary Gradient Start",
+            "#60a5fa",
+            "#2f67e1",
+            "--button-primary-gradient-start"
+        ],
+        "CANVAS": [
+            "Background",
+            "white",
+            "#2f3a3cff",
+            [
+                "--canvas",
+                "--bs-body-bg"
+            ]
+        ],
+        "CANVAS_CODE": [
+            "Code editor background",
+            "#eeeeee",
+            "#1e2b2eff",
+            "--canvas-code"
+        ],
+        "CANVAS_ELEVATED": [
+            "Background (elevated)",
+            "#E5E9F0",
+            "#1b2628ff",
+            "--canvas-elevated"
+        ],
+        "CANVAS_GLASS": [
+            "Background (transparent text surface)",
+            "#E5E9F066",
+            "#292c3c66",
+            "--canvas-glass"
+        ],
+        "CANVAS_INSET": [
+            "Background (inset)",
+            "#E5E9F0",
+            "#080d10ff",
+            "--canvas-inset"
+        ],
+        "CANVAS_OVERLAY": [
+            "Background (menu & tooltip)",
+            "white",
+            "#1b2628ff",
+            "--canvas-overlay"
+        ],
+        "FG": [
+            "Text",
+            "#2E3440",
+            "#ffffffff",
+            [
+                "--fg",
+                "--bs-body-color"
+            ]
+        ],
+        "FG_DISABLED": [
+            "Text (disabled)",
+            "#D8DEE9",
+            "#bfc7d5ff",
+            "--fg-disabled"
+        ],
+        "FG_FAINT": [
+            "Text (faint)",
+            "#D8DEE9",
+            "#fdfdfdff",
+            "--fg-faint"
+        ],
+        "FG_LINK": [
+            "Text (link)",
+            "#8FBCBB",
+            "#fda200ff",
+            "--fg-link"
+        ],
+        "FG_SUBTLE": [
+            "Text (subtle)",
+            "#3B4252",
+            "#fdfdfdff",
+            "--fg-subtle"
+        ],
+        "FLAG_1": [
+            "Flag 1",
+            "#BF616A",
+            "#ec2d33ff",
+            "--flag-1"
+        ],
+        "FLAG_2": [
+            "Flag 2",
+            "#D08770",
+            "#fa8f0bff",
+            "--flag-2"
+        ],
+        "FLAG_3": [
+            "Flag 3",
+            "#A3BE8C",
+            "#86a367ff",
+            "--flag-3"
+        ],
+        "FLAG_4": [
+            "Flag 4",
+            "#5E81AC",
+            "#5aabdcff",
+            "--flag-4"
+        ],
+        "FLAG_5": [
+            "Flag 5",
+            "#B48EAD",
+            "#d58ac0ff",
+            "--flag-5"
+        ],
+        "FLAG_6": [
+            "Flag 6",
+            "#2dd4bf",
+            "#83e9f8ff",
+            "--flag-6"
+        ],
+        "FLAG_7": [
+            "Flag 7",
+            "#a855f7",
+            "#7d51aeff",
+            "--flag-7"
+        ],
+        "HIGHLIGHT_BG": [
+            "Highlight background",
+            "#81A1C1",
+            "#4f6367ff",
+            "--highlight-bg"
+        ],
+        "HIGHLIGHT_FG": [
+            "Highlight text",
+            "black",
+            "#f5bd63ff",
+            "--highlight-fg"
+        ],
+        "SCROLLBAR_BG": [
+            "Scrollbar background",
+            "#d6d6d6",
+            "#395053ff",
+            "--scrollbar-bg"
+        ],
+        "SCROLLBAR_BG_ACTIVE": [
+            "Scrollbar background (active)",
+            "#afafaf",
+            "#4b6a6dff",
+            "--scrollbar-bg-active"
+        ],
+        "SCROLLBAR_BG_HOVER": [
+            "Scrollbar background (hover)",
+            "#c4c4c4",
+            "#263638ff",
+            "--scrollbar-bg-hover"
+        ],
+        "SELECTED_BG": [
+            "Selected Bg",
+            "#d6d6d680",
+            "#fda200ff",
+            "--selected-bg"
+        ],
+        "SELECTED_FG": [
+            "Selected Fg",
+            "black",
+            "#ea9600ff",
+            "--selected-fg"
+        ],
+        "SHADOW": [
+            "Shadow",
+            "#c4c4c4",
+            "#131e1fff",
+            "--shadow"
+        ],
+        "SHADOW_FOCUS": [
+            "Shadow (focused input)",
+            "#6366f1",
+            "#ffaa00ff",
+            "--shadow-focus"
+        ],
+        "SHADOW_INSET": [
+            "Shadow (inset)",
+            "#454545",
+            "#051013ff",
+            "--shadow-inset"
+        ],
+        "SHADOW_SUBTLE": [
+            "Shadow (subtle)",
+            "#737373",
+            "#1d2f32ff",
+            "--shadow-subtle"
+        ],
+        "STATE_BURIED": [
+            "Buried",
+            "#f59e0b",
+            "#838ba7",
+            "--state-buried"
+        ],
+        "STATE_LEARN": [
+            "Learn",
+            "#D08770",
+            "#fd5f55ff",
+            "--state-learn"
+        ],
+        "STATE_MARKED": [
+            "Marked",
+            "#EBCB8B",
+            "#e5c890",
+            "--state-marked"
+        ],
+        "STATE_NEW": [
+            "New",
+            "#5E81AC",
+            "#009cfdff",
+            "--state-new"
+        ],
+        "STATE_REVIEW": [
+            "Review",
+            "#A3BE8C",
+            "#74cca8ff",
+            "--state-review"
+        ],
+        "STATE_SUSPENDED": [
+            "Suspended",
+            "#3B4252",
+            "#b7a88aff",
+            "--state-suspended"
+        ]
+    },
+    "version": {
+        "major": 3,
+        "minor": 1
+    }
+}
