@@ -1,0 +1,33 @@
+#avf-img-container {
+    position: fixed;
+    right: 0;
+    animation: slide-out-anim 6s ease-out forwards;
+    transform: translateX(100%);
+    animation-fill-mode: forwards;
+    animation-name: first, second, third;
+    animation-delay: 0s, 0.75s, 5.75s, 7.5s;
+    animation-duration: 0.75s, 5s, 0.75s;
+    animation-timing-function: ease-in;
+}
+#avf-img {
+    max-width: 30em;
+    margin: auto 0;
+}
+
+@keyframes first {
+    to {
+        transform: translateX(0%);
+    }
+}
+
+@keyframes second {
+    to {
+        transform: translateX(0%);
+    }
+}
+
+@keyframes third {
+    to {
+        transform: translateX(100%);
+    }
+}
