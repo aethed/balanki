@@ -15,6 +15,7 @@ This is a collection of audiovisual Anki addon configurations that I've haphazar
 * tips
 * known issues
 * to-do
+* vision
 
 ## preview
 ![](screenshots/main.png)
@@ -43,6 +44,16 @@ This is a collection of audiovisual Anki addon configurations that I've haphazar
 When reviewing, full-screen mode is recommmended for improved visual aesthetics.
 
 ## known issues
+* balanki review sfx cutting off when card audio is played. i believe this is the nature of how audiovisual feedback and anki are coded.
 
 ## to-do
 * make read-mes for each folder
+
+## vision
+a lot of this config was bashed together by brute force and an unfamiliarity with coding, but i have a lot of ideas that i would love to see implemented that i'm not sure how/if its possible.
+
+* add +chips/+mult animation and sound fx after good or easy review. ideally this would be animated like in the game
+* collectable stakes for each deck
+* completed "stake" sticker next to deck after no reviews/new cards remaining
+* replace static background image with animated video
+* CARD TEMPLATES: add card templates with corresponding fonts and patterend backs
