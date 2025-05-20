@@ -1,6 +1,8 @@
 # balanki
 
-This is a collection of audiovisual Anki addon configurations that I've haphazardly put together to make Anki more Balatro-like. Work in progress!
+This is a collection of audiovisual Anki addon configurations that I've haphazardly put together to make Anki more Balatro-like.
+
+Work in progress!
 
 **Configuration overview**
 * **Custom Background and Gear Image Icon**: changed anki review/meny background to hi-res balatro bg render, changed default settings icon to white stake sticker
@@ -48,6 +50,7 @@ When reviewing, full-screen mode is recommmended for improved visual aesthetics.
 
 ## to-do
 * make read-mes for each folder
+* fix low-res tarot/buffoon/card pack sprites
 
 ## vision
 a lot of this config was bashed together by brute force and an unfamiliarity with coding, but i have a lot of ideas that i would love to see implemented that i'm not sure how/if its possible.
