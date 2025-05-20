@@ -1,0 +1,32 @@
+
+
+
+ 2025-02-14 ﾌｧｰｽﾄﾘﾘｰｽ
+ 2025-03-09 user_filesが開かないﾊﾞｸﾞを修正
+
+
+Anki 25.01 (7ba143ba)  (ao)
+Python 3.9.18 Qt 6.8.1 PyQt 6.8.0
+Platform: Windows-10-10.0.22631
+
+Traceback (most recent call last):
+  File "aqt.webview", line 668, in handler
+  File "aqt.reviewer", line 789, in _onTypedAnswer
+  File "decorator", line 232, in fun
+  File "anki.hooks", line 92, in decorator_wrapper
+  File "anki.hooks", line 89, in repl
+  File "C:\Users\shigg\AppData\Roaming\Anki2\addons21\1573867049\__init__.py", line 40, in noEasy
+    return _old(self)
+  File "decorator", line 232, in fun
+  File "anki.hooks", line 92, in decorator_wrapper
+  File "anki.hooks", line 89, in repl
+  File "C:\Users\shigg\AppData\Roaming\Anki2\addons21\1374772155\main.py", line 278, in on_show_answer
+    return _old(self)
+  File "aqt.reviewer", line 483, in _showAnswer
+  File "_aqt.hooks", line 4229, in __call__
+  File "C:\Users\shigg\AppData\Roaming\Anki2\addons21\1951446409\__init__.py", line 410, in <lambda>
+    gui_hooks.reviewer_did_show_answer.append(lambda c: remove_delayed_sounds(c.answer_av_tags()))
+  File "C:\Users\shigg\AppData\Roaming\Anki2\addons21\1951446409\__init__.py", line 406, in remove_delayed_sounds
+    if sounds[i].filename.find(user_files) != -1:
+AttributeError: 'TTSTag' object has no attribute 'filename'
+

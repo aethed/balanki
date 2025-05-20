@@ -1,0 +1,78 @@
+{
+    "again": {
+        "enable":1,
+        "volume":100
+    },
+    "hard": {
+        "enable":1,
+        "volume":100
+    },
+    "good": {
+        "enable":1,
+        "volume":100
+    },
+    "easy": {
+        "enable":1,
+        "volume":100
+    },
+    "graduate": {
+        "enable":1,
+        "wait_ease":0.3,
+        "volume":100
+    },
+    "correct": {
+        "enable":1,
+        "volume":100
+    },
+    "error": {
+        "enable":1,
+        "volume":100
+    },
+    "suspended": {
+        "enable":1,
+        "volume":100
+    },
+    "user buried": {
+        "enable":1,
+        "volume":100
+    },
+    "sched buried": {
+        "enable":1,
+        "volume":100
+    },
+    "delay question": {
+        "enable":1,
+        "time":1.5
+    },
+    "delay answer": {
+        "enable":1,
+        "time":0.5
+    },
+    "fadein question": {
+        "enable":1,
+        "time":2
+    },
+    "fadein answer": {
+        "enable":1,
+        "time":1
+    },
+    "finish deck": {
+        "enable":1,
+        "volume":100
+    },
+    "ambient menu": {
+        "enable":1,
+        "volume":50,
+        "#mode value#": "'random','single','sequence'",
+        "mode":"random",
+        "paths":[]
+    },
+    "ambient review": {
+        "enable":1,
+        "volume":50,
+        "#mode value#": "'random','single','sequence'",
+        "mode":"random",
+        "continue": 1,
+        "paths":[]
+    }
+}

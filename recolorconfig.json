@@ -234,7 +234,7 @@
         "SCROLLBAR_BG_HOVER": [
             "Scrollbar background (hover)",
             "#c4c4c4",
-            "#263638ff",
+            "#5b8184ff",
             "--scrollbar-bg-hover"
         ],
         "SELECTED_BG": [

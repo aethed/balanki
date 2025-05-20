@@ -1,0 +1,17 @@
+{
+    "Image name for background": "Milkyway.png",   
+    "Image name for gear": "AnKing.png",
+    "Keyboard Shortcut": "Ctrl+Shift+b",
+    "Reviewer image": true,
+    "Toolbar image": true,
+    "Toolbar top/bottom": true,
+    "background-attachment": "fixed",
+    "background-color bottom": "",
+    "background-color main": "",
+    "background-color top": "",
+    "background opacity main": "1",
+    "background opacity review": "1",
+    "background-position": "center",
+    "background scale": "1",
+    "background-size": "cover"
+} 
