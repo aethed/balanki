@@ -3,11 +3,11 @@
 This is a collection of audiovisual Anki addon configurations that I've haphazardly put together to make Anki more Balatro-like. Work in progress!
 
 **Configuration overview**
-* Custom Background and Gear Image Icon: changed anki review/meny background to hi-res balatro bg render, changed default settings icon to white stake sticker
-* Audiovisual Feedback: added Balatro sfx for again/hard/good/easy review options, added Balatro sfx to opening deck/completing deck; ambient game music in main menu, ambient music when reviewing, visual animations and effects on answer/opening deck/completing deck,
-* Recolor: themed general ui colours with balatro colour palette
-* Change Interface Font: changed to match game font
-* Large and Colorful Buttons: changed review button style to match style of balatro ui
+* **Custom Background and Gear Image Icon**: changed anki review/meny background to hi-res balatro bg render, changed default settings icon to white stake sticker
+* **Audiovisual Feedback**: added Balatro sfx for again/hard/good/easy review options, added Balatro sfx to opening deck/completing deck; ambient game music in main menu, ambient music when reviewing, visual animations and effects on answer/opening deck/completing deck,
+* **Recolor**: themed general ui colours with balatro colour palette
+* **Change Interface Font**: changed to match game font
+* **Large and Colorful Buttons**: changed review button style to match style of balatro ui
 
 ## outline
 * preview
