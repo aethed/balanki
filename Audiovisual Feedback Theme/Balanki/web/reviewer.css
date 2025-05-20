@@ -38,7 +38,10 @@
   padding-top: 1em;
   height: 100px;
   max-width: 100%;
-  overflow:hidden
+  overflow:hidden;
+  /*to prevent conflicts with card styling */
+  border: none !important;
+  border-radius: 0 !important;
 }
 
 /* animation keyframe settings*/
