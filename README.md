@@ -1,6 +1,6 @@
 # balanki
 
-This is a collection of audiovisual Anki addon configurations that I've haphazardly put together to make Anki more Balatro-like.
+This is a collection of audiovisual Anki addon configurations that I've haphazardly put together to make Anki more Balatro-like. 
 
 Work in progress!
 
@@ -26,7 +26,9 @@ Work in progress!
 ![](screenshots/visualfeedback2.png)
 
 ## installation
-* _to be written... if you know your way around anki customisation, it should be pretty straightforward._
+* _to be written... if you know your way around anki customisation, it should be pretty straightforward. however, all of the used assets are located in this repo! installation generally will just involve dragging and dropping files or copy and pasting stuff from one file to another._
+
+This is **not** a standalone Anki addon. It is a collection of modified addon configurations. These addons can be found here:
 
 ### addons
 
