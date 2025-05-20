@@ -25,6 +25,8 @@ This is a collection of audiovisual Anki addon configurations that I've haphazar
 ## installation
 * _to be written... if you know your way around anki customisation, it should be pretty straightforward._
 
+### addons
+
 **Required addons:** (_for that balatro feel..._)
 * Custom Background and Gear Image Icon (https://ankiweb.net/shared/info/1210908941)
 * Audiovisual Feedback (https://ankiweb.net/shared/info/231569866)
