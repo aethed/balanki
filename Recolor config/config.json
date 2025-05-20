@@ -57,7 +57,7 @@
         "BUTTON_HOVER": [
             "Button background (hover)",
             "#E5E9F0",
-            "#c88000ff",
+            "#8f6a1f50",
             [
                 "--button-gradient-start",
                 "--button-gradient-end"

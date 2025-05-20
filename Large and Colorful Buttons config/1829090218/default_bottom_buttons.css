@@ -1,0 +1,53 @@
+/* All buttons at the bottom of the review screen
+   (including the "Edit" and "More" button) */
+button {
+    height: 64px;
+    font-size: 14px;
+    border: solid 1px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    margin: 2px 6px 6px !important;
+}
+
+/* the "Show Answer" button */
+#ansbut {
+    width: 360px !important;
+    background-color: #455A64 !important;
+}
+
+/* All rating buttons */
+#middle button {
+    width: 96px;
+    color: white;
+}
+
+/* the "Good" button */
+#defease {
+    background-color: #4CAF50 !important;
+}
+
+/* the "Again" button */
+button[onclick*="ease1"]:not(#defease) {
+    background-color: #D32F2F !important;
+}
+
+/* the "Hard" button */
+button[onclick*="ease2"]:not(#defease) {
+    background-color: #455A64 !important;
+}
+
+/* the "Easy" button */
+button[onclick*="ease3"]:not(#defease),
+button[onclick*="ease4"]:not(#defease) {
+    background-color: #03A9F4 !important;
+}
+
+/* the "Edit" button */
+button[onclick*="edit"] {
+}
+
+/* the "More" button */
+button[onclick*="more"] {
+}
