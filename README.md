@@ -28,7 +28,7 @@ This is a collection of audiovisual Anki addon configurations that I've haphazar
 
 ### addons
 
-**Required addons:** (_for that balatro feel..._)
+**Required addons:** (_for that authentic balatro feel_)
 * Custom Background and Gear Image Icon (https://ankiweb.net/shared/info/1210908941)
 * Audiovisual Feedback (https://ankiweb.net/shared/info/231569866)
 * Recolor (https://ankiweb.net/shared/info/688199788)
